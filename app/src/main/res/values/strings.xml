@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Practica01</string>
+    <string name="debes_numero">Debes introducir un numero</string>
+    <string name="resultado">%d</string>
+</resources>
